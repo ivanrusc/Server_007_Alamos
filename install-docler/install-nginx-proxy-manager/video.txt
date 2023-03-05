@@ -1,0 +1,2 @@
+ install - nginx proxy manager - docker compose 
+https://youtu.be/pu1CANi6VWE

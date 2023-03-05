@@ -1,0 +1,6 @@
+ install docker & docker-compose Debian / Raspberry:
+https://youtu.be/7o0Y_56VRJk
+
+
+ install - nginx proxy manager - docker compose 
+https://youtu.be/pu1CANi6VWE
